@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1694524072 source:c:\users\xnine\desktop\c++\logarithmic device\main.cpp
+	<iostream>
+	"CreateRandomNum.h"
+	"SimpleSort.h"
+	"CompareArr.h"
+
+1694522642 source:c:\users\xnine\desktop\c++\logarithmic device\createrandomnum.cpp
+	<iostream>
+	<random>
+	<time.h>
+
+1694519871 c:\users\xnine\desktop\c++\logarithmic device\createrandomnum.h
+
+1694523850 source:c:\users\xnine\desktop\c++\logarithmic device\simplesort.cpp
+	<iostream>
+	<algorithm>
+
+1694523850 c:\users\xnine\desktop\c++\logarithmic device\simplesort.h
+
+1694523625 source:c:\users\xnine\desktop\c++\logarithmic device\comparearr.cpp
+	<iostream>
+
+1694523680 c:\users\xnine\desktop\c++\logarithmic device\comparearr.h
+
